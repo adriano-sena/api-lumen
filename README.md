@@ -1,17 +1,8 @@
-# Aprendizado deste projeto
+# Aprendizado com o projeto
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
 
 Projeto realizado com um o curso de Api-Lumen da Alura (Excelendte curso introdutório). Durante este projeto realizei algumas anotações que consideirei importante no momento e gostaria de compartilha-las aqui: 
 
-
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
 
 - Uma API devolve dados através do protocolo HTTP, muito usado para atender aplicações mobile ou desktop
 - Podemos criar uma API com Laravel, e as rotas da API ficam no arquivo **api.php**
