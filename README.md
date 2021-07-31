@@ -52,7 +52,7 @@ Accessors, mutators, and attribute casting allows you to transform Eloquent attr
 
 ## Paginação
 
-Nesta aula, nós ajudamos o cliente com informações sobre a navegação. Seja entre páginas ou entre recursos. Ou seja, enviamos informações além da mídia solicitada.
+Nós ajudamos o cliente com informações sobre a navegação. Seja entre páginas ou entre recursos. Ou seja, enviamos informações além da mídia solicitada.
 
 Dados que não são somente texto, ou seja, imagens, vídeos ou como no nosso caso, **links**, são comumente tratados como ***hypermidia***, ou **hipermídia**.
 
